@@ -27,8 +27,7 @@
         </tr>
         <tr>
                 <td>Server IP</td>
-                <td><%=java.net.InetAddress.getLocalHost()
-                                                                        .getHostAddress()%></td>
+                <td><%=java.net.InetAddress.getLocalHost().getHostAddress()%></td>
         </tr>
         <tr>
                 <td>Request SessionID</td>
